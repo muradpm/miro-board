@@ -1,5 +1,5 @@
 <a href="#">
-  <img alt="A modern collaborative whiteboard platform built with Next.js." src="./public/preview/miro-baord.png">
+  <img alt="A modern collaborative whiteboard platform built with Next.js." src="./public/preview/miro-board.png">
   <h1 align="center">Miro-board</h1>
 </a>
 
